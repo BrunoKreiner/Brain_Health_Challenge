@@ -1,5 +1,8 @@
 # Understanding Brain Health - International Challenge
 
+## Paper to this project
+https://drive.google.com/file/d/1EPG41y0lyCPFLWDLPdK8mBX1i2MS32Sp/view?usp=sharing
+
 ## Information
 
 This semester we will focus on brain health. We will work on medical image classification and visualization tasks, i.e., the challenge contains equal part machine learning and data visualization. We have an international partnerships for this challenge with the New York University School of Medicine / Neuroscience. We will work with an open source data set that includes brain scans and some 'tabular' data regarding patients' characteristics for Alzheimer’s disease.
